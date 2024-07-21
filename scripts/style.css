@@ -65,7 +65,7 @@ body {
   padding: 20px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 6000px) {
   .navbar a:not(:first-child) {
     display: none;
   }
@@ -118,7 +118,7 @@ p:hover {
 }
 .images {
   display: flex;
-  justify-content: center center fixed;
+  justify-content: center;
   cursor: pointer;
 }
 
